@@ -1,6 +1,14 @@
+body{
+    background-color: lightgray;
+}
 nav{
     height: 8vh;
+    background-color: #C03E3E;
 }
 .navbar-brand{
-    font-size: 30px;
+    font-size: 1.50rem;
+}
+.col{
+    height: 200px;
+    background-color:#AA8080;
 }
